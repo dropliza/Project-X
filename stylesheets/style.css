@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  min-height: 100vh;
+}
+
+.main h1 {
+  font-size: 48px;
+  font-weight: 700;
+}
